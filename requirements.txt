@@ -1,0 +1,10 @@
+google-genai
+google-generativeai
+tavily-python
+requests
+pillow
+moviepy
+ffmpeg-python
+python-dotenv
+beautifulsoup4
+html2image
